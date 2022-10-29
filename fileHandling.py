@@ -1,0 +1,6 @@
+theFile = open("fileHandlingSample.txt", "r")
+# print(theFile.read())
+# print(theFile.split())
+fileRead = theFile.read()
+print(fileRead.split())
+theFile.close()

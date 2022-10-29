@@ -1,0 +1,5 @@
+Infosys, 1450
+TCS, 3200
+L&T, 4500
+Wipro, 2000
+HCLTech, 1200
